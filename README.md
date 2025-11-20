@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sanajitjana/React-Portfolio.git
+   git clone https://github.com/leadinglimat/React-Portfolio.git
    cd React-Portfolio
 
    ```
@@ -85,9 +85,9 @@ Don't forget to give the project a star! Thanks again!
 
 Feel free to reach out if you have any questions or suggestions:
 
-- Email: dev.sanajitjana@gmail.com
-- LinkedIn: [Sanajit Jana](https://www.linkedin.com/in/sanajitjana01)
-- Portfolio: [Latest Portfolio](https://sanajitjana.github.io)
+- Email: leadinglimat@gmail.com
+- LinkedIn: [Thamizh Selvan](https://www.linkedin.com/in/thamizh-selvan-ui-developer)
+- Portfolio: [Latest Portfolio](https://github.com/leadinglimat/React-Portfolio)
 
 Thank you for visiting my portfolio!
 
@@ -100,7 +100,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Welcome Hacktoberfest contributors! We’re excited to be a part of Hacktoberfest 2025 and invite developers of all levels to contribute to this project.
 
 **How to Participate:**
-- Pick any issue labeled [`hacktoberfest`](https://github.com/sanajitjana/React-Portfolio/labels/hacktoberfest), [`good first issue`](https://github.com/sanajitjana/React-Portfolio/labels/good%20first%20issue), or [`help wanted`](https://github.com/sanajitjana/React-Portfolio/labels/help%20wanted).
+- Pick any issue labeled [`hacktoberfest`](https://github.com/leadinglimat/React-Portfolio/labels/hacktoberfest), [`good first issue`](https://github.com/leadinglimat/React-Portfolio/labels/good%20first%20issue), or [`help wanted`](https://github.com/leadinglimat/React-Portfolio/labels/help%20wanted).
 - Read our [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines and setup instructions.
 - Make your pull request in October and ensure it follows our code standards.
 
