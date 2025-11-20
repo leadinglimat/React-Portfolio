@@ -9,7 +9,6 @@
 - [Contact](#contact)
 - [License](#license)
 - [Hacktoberfest](#hacktoberfest)
-- [Preview](#preview)
 
 ## Introduction
 
@@ -106,6 +105,3 @@ Welcome Hacktoberfest contributors! We’re excited to be a part of Hacktoberfes
 
 **We offer support and code reviews for all contributors—beginners are especially welcome!**
 
-## Preview
-
-![image](https://github.com/user-attachments/assets/962ee653-ebc8-44c3-a12b-8dffe87cb269)
